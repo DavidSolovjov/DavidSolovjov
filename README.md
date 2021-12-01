@@ -15,8 +15,6 @@
 </p>
 
 ### I am a senior web software engineer with demonstrated history.
-### My strenth is to fully understand what clients and product owners want. I am passionate about making things happen by hard-working.
-
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -34,17 +32,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
    Smart contract, Solidity, truffle, web3.js, bitQuery, Charting View
 
-   2. *Frontend dev skills* 
+  2. *Web-based 3D Visualization*
+
+      Three.js, Babylon.js, WebGL, GLSL, Canvas
+  3. *Frontend dev skills* 
 
       React.js, Next.js, Vue.js,  Nuxt.js, Gatsby.js, Meteor.js, Ember.js, and other useful Frontend dev frameworks/libraries
 
-   3. *Full Stack/Backend dev skills*
+  4. *Full Stack/Backend dev skills*
 
       Node.js, Express.js, PHP, Laravel 5, MERN/MEVN 
 
-   4. *Web-based 3D Visualization*
 
-      Three.js, Babylon.js, WebGL, GLSL, Canvas
 
    5. *Programming Languages*
 
