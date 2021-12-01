@@ -19,36 +19,20 @@
 **Skills/Interests**
 
    1. *Blockchain*  
-
-   Deeply blockchain standards like Ethereum, BSC and DeFi eco-system 
-
-   New token deployment on ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155
-
-   Defi platforms for staking, yield farm, NFT marketplace to generate passive income
-
-   Trading snip bots on several DEXs like Uniswap, Pancakeswap (Front-running, Arbitrage bot)
-
-   Smart contract, Solidity, truffle, web3.js, bitQuery, Charting View
-
+       Deeply blockchain standards like Ethereum, BSC and DeFi eco-system 
+       New token deployment on ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155
+       Defi platforms for staking, yield farm, NFT marketplace to generate passive income
+       Trading snip bots on several DEXs like Uniswap, Pancakeswap (Front-running, Arbitrage bot)
+       Smart contract, Solidity, truffle, web3.js, bitQuery, Charting View
   2. *Web-based 3D Visualization*
-
       Three.js, Babylon.js, WebGL, GLSL, Canvas
   3. *Frontend dev skills* 
-
       React.js, Next.js, Vue.js,  Nuxt.js, Gatsby.js, Meteor.js, Ember.js, and other useful Frontend dev frameworks/libraries
-
   4. *Full Stack/Backend dev skills*
-
       Node.js, Express.js, PHP, Laravel 5, MERN/MEVN 
-
-
-
    5. *Programming Languages*
-
        GIS , Ceisum js, Lidar.
-
    6. *As Bonus*
-
       React Native, Ionic, XR(AR/VR/MR)
 
   <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />
