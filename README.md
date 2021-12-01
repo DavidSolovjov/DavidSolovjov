@@ -19,11 +19,12 @@
 **Skills/Interests**
 
    1. *Blockchain*  
+   2.  Defi platforms for staking, yield farm, NFT marketplace to generate passive income
+       Trading snip bots , uniswap sniper bots  on several DEXs like Uniswap, Pancakeswap (Front-running, Arbitrage bot)
+       Smart contract, Solidity, truffle, web3.js, bitQuery, Charting View
        Deeply blockchain standards like Ethereum, BSC and DeFi eco-system 
        New token deployment on ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155
-       Defi platforms for staking, yield farm, NFT marketplace to generate passive income
-       Trading snip bots on several DEXs like Uniswap, Pancakeswap (Front-running, Arbitrage bot)
-       Smart contract, Solidity, truffle, web3.js, bitQuery, Charting View
+      
   2. *Web-based 3D Visualization*
       Three.js, Babylon.js, WebGL, GLSL, Canvas
   3. *Frontend dev skills* 
