@@ -16,8 +16,6 @@
 
 ### I am a senior web software engineer with demonstrated history.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 **Skills/Interests**
 
    1. *Blockchain*  
