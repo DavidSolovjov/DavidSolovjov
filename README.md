@@ -43,6 +43,7 @@
 ### **_Skills_**
 <table>
   <tr>
+https://github.com/dev0420/Dev420/blob/main/img
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
@@ -72,22 +73,22 @@
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/PotatoPowerClub.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/CryptoPig.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/FunkiFoxes.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/CryptoSwords.png?raw=true" width="200">
             </a>
         </td>                
     </tr>
@@ -101,17 +102,17 @@
     <tr>
         <td>
             <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/ChubbyBunny1.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/GekoSave0.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://helldemons.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/HellDemon.png?raw=true" width="200">
             </a>
         </td>                       
     </tr>   
@@ -130,22 +131,22 @@
     <tr>
         <td>
             <a href="https://nftmania.app/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/nftmania.png?raw=true" width="200">
             </a>
         </td>        
         <td>
             <a href="https://latitud.art/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/latitud.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/latitud.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="http://209.145.53.68:5000">
-                <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/LunachowNFT.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/GekoSave1.png?raw=true" width="200">
             </a>
         </td>     
     </tr>
@@ -163,17 +164,17 @@
     <tr>
         <td>
             <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/cosmicswap.png?raw=true" width="200">
             </a>
         </td>          
         <td>
             <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/ddexinfo.png?raw=true" width="200">
             </a>
         </td>   
         <td>
             <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/dev0420/Dev420/blob/main/img/maticswap.png?raw=true" width="200">
             </a>
         </td> 
     </tr>  
