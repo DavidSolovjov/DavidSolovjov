@@ -3,13 +3,13 @@
 <a href="https://t.me/npng420s">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/mKnpanje9hL">
+<a href="https://join.skype.com/invite/mKnpanje9">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://discord.gg/aaszUPHg">
+<a href="https://discord.gg/aszUHg">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:sspike19191@gmail.com">
+<a href="mailto:sike19191@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
