@@ -243,8 +243,14 @@
 </table>
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
+
 - NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
 - Fork of PancakeSwap, GooseDeFi, PantherSwap.
 - Decentralized Exchanges with TradingView.
 - Token Bridge, Block Explorer.
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
+
+
+> GitHub Activity Graph
+
+<a href="https://github.com/dev0420"><img alt="dev0420's activity graph" src="https://activity-graph.herokuapp.com/graph?username=fairyland0926&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
