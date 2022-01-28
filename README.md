@@ -61,22 +61,6 @@
   </tr>
 </table>
 
-###  **_Contact Details_**
-<p align='center'>
-<a href="https://t.me/npng420s">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/mKnpanje9">
-  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://discord.gg/aszUHg">
-  <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:sike19191@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-
 ### I am a senior web software engineer with demonstrated history.
 
 **Skills/Interests**
@@ -105,123 +89,16 @@
 
 ### DeFi Experiences
 - NFT Mint Dapps
-<table>
-    <thead align="center">
-        <tr>
-            <td>PotatoPowerClue</td>
-            <td>CryptoPigs</td>           
-            <td>FunkiFoxes</td>
-            <td>CryptoSwords</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/PotatoPowerClub.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/CryptoPig.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/FunkiFoxes.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/CryptoSwords.png?raw=true" width="200">
-            </a>
-        </td>                
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-            <td>HellDemon</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/ChubbyBunny1.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/GekoSave0.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://helldemons.io/" target="_blank">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/HellDemon.png?raw=true" width="200">
-            </a>
-        </td>                       
-    </tr>   
+
 </table>
 
 - NFT Marketplaces
-<table>
-    <thead align="center">
-        <tr>
-            <td>NFTMania</td>
-            <td>Latitude</td>
-            <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://nftmania.app/">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/nftmania.png?raw=true" width="200">
-            </a>
-        </td>        
-        <td>
-            <a href="https://latitud.art/">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/latitud.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="http://209.145.53.68:5000">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/LunachowNFT.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/GekoSave1.png?raw=true" width="200">
-            </a>
-        </td>     
-    </tr>
+
 </table>
 
 - DEX
 <table>
-<thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/cosmicswap.png?raw=true" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/ddexinfo.png?raw=true" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/dev0420/Dev420/blob/main/img/maticswap.png?raw=true" width="200">
-            </a>
-        </td> 
-    </tr>  
+
 </table>
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
