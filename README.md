@@ -14,14 +14,8 @@
 <p align="center">
     <img alt="status" src="https://github-readme-stats.vercel.app/api?username=rockstar0711&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&count_private=true" align="center" />
   <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond7&layout=compact&theme=monokai&count_private=true">
- <br />
-  <br />
-  <a href="https://github.com/rockstar0711">  
-      <img alt="Github actions" src="https://komarev.com/ghpvc/?username=rockstar0711&color=yellowgreen&style=plastic" />
-    </a>
+ <br /> 
   </p>
-
-
 <img height="150px" />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
