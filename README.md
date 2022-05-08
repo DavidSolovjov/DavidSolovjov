@@ -85,7 +85,7 @@
    6. *As Bonus*
       React Native, Ionic, XR(AR/VR/MR)
 
-  <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" />
+  <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="300" />
 
 - 💬 Ask me about anything, I am happy to help;
 
