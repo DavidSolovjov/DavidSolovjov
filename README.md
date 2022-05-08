@@ -100,8 +100,8 @@
 
 - DEX
 <table>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ppizarror/ppizarror/master/profile-3d-contrib/profile-night-view.svg"  />
 </table>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ppizarror/ppizarror/master/profile-3d-contrib/profile-night-view.svg" width="900" height="300" />
+
 
 
