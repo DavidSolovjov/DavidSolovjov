@@ -102,6 +102,6 @@
 <table>
 
 </table>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ppizarror/ppizarror/master/profile-3d-contrib/profile-night-view.svg" width="500" height="500" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ppizarror/ppizarror/master/profile-3d-contrib/profile-night-view.svg" width="800" height="500" />
 
 
