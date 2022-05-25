@@ -75,7 +75,7 @@
        New token deployment on ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155
       
   2. *Web-based 3D Visualization*
-      Three.js, Babylon.js, WebGL, GLSL, Canvas
+      Three.js, Babylon.js, WebGL, GLSL, Canvas, Unity
   3. *Frontend dev skills* 
       React.js, Next.js, Vue.js,  Nuxt.js, Gatsby.js, Meteor.js, Ember.js, and other useful Frontend dev frameworks/libraries
   4. *Full Stack/Backend dev skills*
